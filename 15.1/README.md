@@ -62,7 +62,7 @@ yc resource-manager folder list
 
 ### Написал конфигурационные файлы для тестовой инфраструктуры:
 
-[terraform](15.1/terraform)
+[terraform](terraform)
 
 ### Запустил инициализацию терраформа:
 
